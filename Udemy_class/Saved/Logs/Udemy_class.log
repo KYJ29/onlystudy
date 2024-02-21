@@ -1,0 +1,1597 @@
+﻿Log file open, 02/22/24 00:08:31
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Udemy_class
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.057740
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 5600X 6-Core Processor             , GPU: NVIDIA GeForce RTX 4060
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2024.02.21-15.08.31:936][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2024.02.21-15.08.31:936][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2024.02.21-15.08.31:936][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/koong/Documents/Unreal Projects/Udemy_class/Saved/Config/Windows/Engine.ini]
+[2024.02.21-15.08.31:936][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2024.02.21-15.08.31:936][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2024.02.21-15.08.31:936][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/koong/Documents/Unreal Projects/Udemy_class/Saved/Config/Windows/Engine.ini]
+[2024.02.21-15.08.31:936][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/koong/Documents/Unreal Projects/Udemy_class/Saved/Config/Windows/Engine.ini]
+[2024.02.21-15.08.31:936][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2024.02.21-15.08.31:936][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2024.02.21-15.08.31:936][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2024.02.21-15.08.31:936][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2024.02.21-15.08.31:936][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2024.02.21-15.08.31:936][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2024.02.21-15.08.31:936][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2024.02.21-15.08.31:936][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2024.02.21-15.08.31:936][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2024.02.21-15.08.31:936][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2024.02.21-15.08.31:936][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2024.02.21-15.08.31:936][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2024.02.21-15.08.31:936][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2024.02.21-15.08.31:936][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/koong/Documents/Unreal Projects/Udemy_class/Saved/Config/Windows/Engine.ini]
+[2024.02.21-15.08.31:936][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2024.02.21-15.08.31:936][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2024.02.21-15.08.31:936][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2024.02.21-15.08.31:936][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2024.02.21-15.08.31:936][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2024.02.21-15.08.31:936][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2024.02.21-15.08.31:936][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2024.02.21-15.08.31:936][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2024.02.21-15.08.31:936][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2024.02.21-15.08.31:936][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2024.02.21-15.08.31:936][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2024.02.21-15.08.31:936][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2024.02.21-15.08.31:936][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2024.02.21-15.08.31:936][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/koong/Documents/Unreal Projects/Udemy_class/Saved/Config/Windows/Engine.ini]
+[2024.02.21-15.08.31:936][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/koong/Documents/Unreal Projects/Udemy_class/Saved/Config/Windows/Engine.ini]
+[2024.02.21-15.08.31:945][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/koong/Documents/Unreal Projects/Udemy_class/Saved/Config/Windows/Scalability.ini]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/koong/Documents/Unreal Projects/Udemy_class/Saved/Config/Windows/Scalability.ini]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/koong/Documents/Unreal Projects/Udemy_class/Saved/Config/Windows/Scalability.ini]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/koong/Documents/Unreal Projects/Udemy_class/Saved/Config/Windows/Scalability.ini]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/koong/Documents/Unreal Projects/Udemy_class/Saved/Config/Windows/Scalability.ini]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/koong/Documents/Unreal Projects/Udemy_class/Saved/Config/Windows/Scalability.ini]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/koong/Documents/Unreal Projects/Udemy_class/Saved/Config/Windows/Scalability.ini]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.02.21-15.08.31:945][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.02.21-15.08.31:945][  0]LogInit: Selected Device Profile: [Windows]
+[2024.02.21-15.08.31:945][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2024.02.21-15.08.31:948][  0]LogHAL: Display: Platform has ~ 16 GB [17085521920 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.02.21-15.08.31:948][  0]LogInit: Going up to parent DeviceProfile []
+[2024.02.21-15.08.31:948][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/koong/Documents/Unreal Projects/Udemy_class/Saved/Config/Windows/Scalability.ini]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/koong/Documents/Unreal Projects/Udemy_class/Saved/Config/Windows/Scalability.ini]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/koong/Documents/Unreal Projects/Udemy_class/Saved/Config/Windows/Scalability.ini]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/koong/Documents/Unreal Projects/Udemy_class/Saved/Config/Windows/Scalability.ini]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/koong/Documents/Unreal Projects/Udemy_class/Saved/Config/Windows/Scalability.ini]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/koong/Documents/Unreal Projects/Udemy_class/Saved/Config/Windows/Scalability.ini]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/koong/Documents/Unreal Projects/Udemy_class/Saved/Config/Windows/Scalability.ini]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2024.02.21-15.08.31:948][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/koong/Documents/Unreal Projects/Udemy_class/Saved/Config/Windows/Engine.ini]
+[2024.02.21-15.08.31:949][  0]LogInit: Computer: DESKTOP-LGHQ2MD
+[2024.02.21-15.08.31:949][  0]LogInit: User: koong
+[2024.02.21-15.08.31:949][  0]LogInit: CPU Page size=4096, Cores=6
+[2024.02.21-15.08.31:949][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.02.21-15.08.31:949][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2024.02.21-15.08.31:949][  0]LogMemory: Platform Memory Stats for Windows
+[2024.02.21-15.08.31:949][  0]LogMemory: Process Physical Memory: 103.14 MB used, 103.14 MB peak
+[2024.02.21-15.08.31:949][  0]LogMemory: Process Virtual Memory: 89.40 MB used, 89.40 MB peak
+[2024.02.21-15.08.31:949][  0]LogMemory: Physical Memory: 8597.33 MB used,  7696.69 MB free, 16294.02 MB total
+[2024.02.21-15.08.31:949][  0]LogMemory: Virtual Memory: 4677.13 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2024.02.21-15.08.31:951][  0]LogWindows: WindowsPlatformFeatures enabled
+[2024.02.21-15.08.32:016][  0]LogInit: Overriding language with editor language configuration option (en).
+[2024.02.21-15.08.32:016][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2024.02.21-15.08.32:016][  0]LogInit: Using OS detected locale (ko-KR).
+[2024.02.21-15.08.32:132][  0]LogInit: Setting process to per monitor DPI aware
+[2024.02.21-15.08.32:183][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.02.21-15.08.32:183][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.02.21-15.08.32:340][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.02.21-15.08.32:340][  0]LogD3D11RHI: D3D11 adapters:
+[2024.02.21-15.08.32:513][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 4060' (Feature Level 11_0)
+[2024.02.21-15.08.32:513][  0]LogD3D11RHI:       7971/0/8147 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2024.02.21-15.08.32:610][  0]LogD3D11RHI:    1. 'NVIDIA GeForce RTX 4060' (Feature Level 11_0)
+[2024.02.21-15.08.32:611][  0]LogD3D11RHI:       7971/0/8147 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2024.02.21-15.08.32:612][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2024.02.21-15.08.32:612][  0]LogD3D11RHI:       0/0/8147 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2024.02.21-15.08.32:613][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2024.02.21-15.08.32:620][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2024.02.21-15.08.32:620][  0]LogD3D11RHI:     GPU DeviceId: 0x2882 (for the marketing name, search the web for "GPU Device Id")
+[2024.02.21-15.08.32:620][  0]LogWindows: EnumDisplayDevices:
+[2024.02.21-15.08.32:620][  0]LogWindows:    0. 'NVIDIA GeForce RTX 4060' (P:0 D:1)
+[2024.02.21-15.08.32:621][  0]LogWindows:    1. 'NVIDIA GeForce RTX 4060' (P:1 D:1)
+[2024.02.21-15.08.32:621][  0]LogWindows:    2. 'NVIDIA GeForce RTX 4060' (P:0 D:0)
+[2024.02.21-15.08.32:621][  0]LogWindows:    3. 'NVIDIA GeForce RTX 4060' (P:0 D:0)
+[2024.02.21-15.08.32:622][  0]LogWindows:    4. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2024.02.21-15.08.32:622][  0]LogWindows:    5. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2024.02.21-15.08.32:623][  0]LogWindows:    6. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2024.02.21-15.08.32:623][  0]LogWindows:    7. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2024.02.21-15.08.32:624][  0]LogWindows:    8. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2024.02.21-15.08.32:624][  0]LogWindows:    9. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2024.02.21-15.08.32:625][  0]LogWindows:    10. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2024.02.21-15.08.32:625][  0]LogWindows:    11. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2024.02.21-15.08.32:625][  0]LogWindows:    12. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2024.02.21-15.08.32:626][  0]LogWindows:    13. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2024.02.21-15.08.32:626][  0]LogWindows:    14. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2024.02.21-15.08.32:627][  0]LogWindows:    15. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2024.02.21-15.08.32:627][  0]LogWindows:    16. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2024.02.21-15.08.32:628][  0]LogWindows:    17. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2024.02.21-15.08.32:628][  0]LogWindows:    18. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2024.02.21-15.08.32:629][  0]LogWindows:    19. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2024.02.21-15.08.32:629][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2024.02.21-15.08.32:629][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 4060
+[2024.02.21-15.08.32:629][  0]LogD3D11RHI:   Driver Version: 546.33 (internal:31.0.15.4633, unified:546.33)
+[2024.02.21-15.08.32:629][  0]LogD3D11RHI:      Driver Date: 12-6-2023
+[2024.02.21-15.08.32:629][  0]LogRHI: Texture pool is 5579 MB (70% of 7971 MB)
+[2024.02.21-15.08.32:717][  0]LogD3D11RHI: Async texture creation enabled
+[2024.02.21-15.08.32:735][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2024.02.21-15.08.32:739][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061087).
+[2024.02.21-15.08.33:020][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2024.02.21-15.08.33:027][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2024.02.21-15.08.33:033][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2024.02.21-15.08.33:040][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2024.02.21-15.08.33:047][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2024.02.21-15.08.33:053][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2024.02.21-15.08.33:060][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2024.02.21-15.08.33:067][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2024.02.21-15.08.33:070][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2024.02.21-15.08.33:098][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2024.02.21-15.08.33:098][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2024.02.21-15.08.33:098][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2024.02.21-15.08.33:098][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2024.02.21-15.08.33:098][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2024.02.21-15.08.33:098][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2024.02.21-15.08.33:098][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2024.02.21-15.08.33:098][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2024.02.21-15.08.33:098][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2024.02.21-15.08.33:098][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2024.02.21-15.08.33:098][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2024.02.21-15.08.33:098][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2024.02.21-15.08.33:098][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2024.02.21-15.08.33:098][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2024.02.21-15.08.33:098][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2024.02.21-15.08.33:098][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2024.02.21-15.08.33:098][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2024.02.21-15.08.33:098][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2024.02.21-15.08.33:099][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2024.02.21-15.08.33:114][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2024.02.21-15.08.33:114][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2024.02.21-15.08.33:124][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2024.02.21-15.08.33:124][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2024.02.21-15.08.33:130][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2024.02.21-15.08.33:135][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2024.02.21-15.08.33:140][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2024.02.21-15.08.33:146][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2024.02.21-15.08.33:165][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2024.02.21-15.08.33:165][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2024.02.21-15.08.33:165][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2024.02.21-15.08.33:172][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.02.21-15.08.33:212][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Intermediate/Shaders/WorkingDirectory/28488/).
+[2024.02.21-15.08.33:212][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/koong/AppData/Local/Temp/UnrealShaderWorkingDir/BF65CEBD461A2267CD1593B8209D68E2/'.
+[2024.02.21-15.08.33:214][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.02.21-15.08.33:214][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2024.02.21-15.08.33:214][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2024.02.21-15.08.33:643][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2024.02.21-15.08.33:674][  0]LogDerivedDataCache: Loaded boot cache 0.03s 73MB C:/Users/koong/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2024.02.21-15.08.33:674][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/koong/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2024.02.21-15.08.33:675][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Users/koong/Documents/Unreal Projects/Udemy_class/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.02.21-15.08.33:675][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2024.02.21-15.08.33:675][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Users/koong/Documents/Unreal Projects/Udemy_class/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.02.21-15.08.33:675][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2024.02.21-15.08.33:684][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2024.02.21-15.08.33:684][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.02.21-15.08.33:684][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2024.02.21-15.08.33:685][  0]LogDerivedDataCache: Using Local data cache path C:/Users/koong/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.02.21-15.08.33:685][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.02.21-15.08.33:685][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2024.02.21-15.08.33:699][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2024.02.21-15.08.33:701][  0]LogSlate: Using FreeType 2.6.0
+[2024.02.21-15.08.33:701][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.02.21-15.08.33:746][  0]LogAssetRegistry: FAssetRegistry took 0.0019 seconds to start up
+[2024.02.21-15.08.33:936][  0]LogInit: Selected Device Profile: [Windows]
+[2024.02.21-15.08.34:037][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.02.21-15.08.34:037][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.02.21-15.08.34:037][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.02.21-15.08.34:037][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.02.21-15.08.34:037][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.02.21-15.08.34:044][  0]LogNetVersion: Udemy_class 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2509567035)
+[2024.02.21-15.08.34:309][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.026628 seconds
+[2024.02.21-15.08.34:314][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2024.02.21-15.08.34:314][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2024.02.21-15.08.34:314][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.02.21-15.08.34:942][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.02.21-15.08.34:944][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.02.21-15.08.34:977][  0]SourceControl: Source control is disabled
+[2024.02.21-15.08.34:977][  0]SourceControl: Source control is disabled
+[2024.02.21-15.08.34:978][  0]SourceControl: Source control is disabled
+[2024.02.21-15.08.34:979][  0]SourceControl: Source control is disabled
+[2024.02.21-15.08.35:047][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.02.21-15.08.35:178][  0]LogOcInput: OculusInput pre-init called
+[2024.02.21-15.08.35:184][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2024.02.21-15.08.35:184][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2024.02.21-15.08.35:232][  0]LogEngine: Initializing Engine...
+[2024.02.21-15.08.35:233][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.02.21-15.08.35:234][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.02.21-15.08.35:375][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.02.21-15.08.35:385][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.02.21-15.08.35:422][  0]LogInit: XAudio2 using '스피커(Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.02.21-15.08.35:481][  0]LogInit: FAudioDevice initialized.
+[2024.02.21-15.08.35:481][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.02.21-15.08.35:516][  0]LogDerivedDataCache: Saved boot cache 0.03s 73MB C:/Users/koong/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2024.02.21-15.08.35:518][  0]LogInit: Texture streaming: Enabled
+[2024.02.21-15.08.35:534][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.02.21-15.08.35:534][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2024.02.21-15.08.35:536][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2024.02.21-15.08.35:573][  0]LogInit: Transaction tracking system initialized
+[2024.02.21-15.08.35:596][  0]BlueprintLog: New page: Editor Load
+[2024.02.21-15.08.35:650][  0]LocalizationService: Localization service is disabled
+[2024.02.21-15.08.35:813][  0]LogFileCache: Scanning file cache for directory 'C:/Users/koong/Documents/Unreal Projects/Udemy_class/Content/' took 0.01s
+[2024.02.21-15.08.35:814][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2024.02.21-15.08.35:814][  0]LogCook: Display: Mobile HDR setting 1
+[2024.02.21-15.08.35:947][  0]SourceControl: Source control is disabled
+[2024.02.21-15.08.35:947][  0]Cmd: MAP LOAD FILE="../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.02.21-15.08.35:947][  0]LightingResults: New page: Lighting Build
+[2024.02.21-15.08.35:949][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.02.21-15.08.35:949][  0]MapCheck: New page: Map Check
+[2024.02.21-15.08.35:949][  0]LightingResults: New page: Lighting Build
+[2024.02.21-15.08.35:970][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.02.21-15.08.36:053][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.02.21-15.08.36:057][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.02.21-15.08.36:080][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.02.21-15.08.36:080][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.02.21-15.08.36:081][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.253ms to complete.
+[2024.02.21-15.08.36:081][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.134
+[2024.02.21-15.08.36:184][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.21-15.08.36:189][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.21-15.08.36:192][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.21-15.08.36:196][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.21-15.08.36:202][  0]LogCollectionManager: Loaded 0 collections in 0.001381 seconds
+[2024.02.21-15.08.36:208][  0]LogFileCache: Scanning file cache for directory 'C:/Users/koong/Documents/Unreal Projects/Udemy_class/Saved/Collections/' took 0.00s
+[2024.02.21-15.08.36:208][  0]LogFileCache: Scanning file cache for directory 'C:/Users/koong/Documents/Unreal Projects/Udemy_class/Content/Developers/koong/Collections/' took 0.00s
+[2024.02.21-15.08.36:208][  0]LogFileCache: Scanning file cache for directory 'C:/Users/koong/Documents/Unreal Projects/Udemy_class/Content/Collections/' took 0.00s
+[2024.02.21-15.08.36:208][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2024.02.21-15.08.36:214][  0]LogContentBrowser: Native class hierarchy populated in 0.0066 seconds. Added 2863 classes and 680 folders.
+[2024.02.21-15.08.36:219][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2024.02.21-15.08.36:253][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2024.02.21-15.08.36:257][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2024.02.21-15.08.36:273][  0]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.02.21-15.08.36:274][  0]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.02.21-15.08.36:281][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2024.02.21-15.08.36:281][  0]LogLoad: (Engine Initialization) Total time: 5.40 seconds
+[2024.02.21-15.08.36:281][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.02.21-15.08.36:337][  0]LogAssetRegistry: Asset discovery search completed in 2.5918 seconds
+[2024.02.21-15.08.36:339][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
+[2024.02.21-15.08.36:339][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000031 seconds (updated 0 objects)
+[2024.02.21-15.08.36:340][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.02.21-15.08.36:348][  0]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.02.21-15.08.36:393][  1]LogRenderer: Reallocating scene render targets to support 804x360 Format 10 NumSamples 1 (Frame:1).
+[2024.02.21-15.08.37:299][ 86]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.02.21-15.08.37:570][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.21-15.08.37:639][125]LogRenderer: Reallocating scene render targets to support 1616x836 Format 10 NumSamples 1 (Frame:121).
+[2024.02.21-15.08.41:333][563]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.21-15.08.41:339][563]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.08.41:339][563]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.21-15.08.41:339][563]PIE: New page: PIE session: Minimal_Default (2024. 2. 22. 오전 9:08:41)
+[2024.02.21-15.08.41:340][563]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2024.02.21-15.08.41:343][563]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.02.21-15.08.41:347][563]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003557s)
+[2024.02.21-15.08.41:348][563]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.02.21-15.08.41:348][563]LogPlayLevel: PIE: World Init took: (0.001250s)
+[2024.02.21-15.08.41:348][563]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005119s)
+[2024.02.21-15.08.41:375][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.02.21-15.08.41:404][563]LogInit: XAudio2 using '스피커(Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.02.21-15.08.41:452][563]LogInit: FAudioDevice initialized.
+[2024.02.21-15.08.41:681][563]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.EdGraphNode_Comment_1' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.02.21-15.08.41:681][563]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.EdGraphNode_Comment_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.02.21-15.08.41:681][563]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_206' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.02.21-15.08.41:681][563]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_207' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.02.21-15.08.41:681][563]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_208' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.02.21-15.08.41:681][563]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_209' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.02.21-15.08.41:681][563]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_210' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.02.21-15.08.41:681][563]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_211' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.02.21-15.08.41:681][563]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_212' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.02.21-15.08.41:681][563]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_229' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.02.21-15.08.41:681][563]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_230' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.02.21-15.08.41:682][563]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_231' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.02.21-15.08.41:682][563]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_232' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.02.21-15.08.41:682][563]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_233' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.02.21-15.08.41:682][563]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_234' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.02.21-15.08.41:682][563]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_235' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.02.21-15.08.41:682][563]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.02.21-15.08.41:682][563]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_90' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.02.21-15.08.41:682][563]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_Root_43' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.02.21-15.08.41:691][563]LogLoad: Game class is 'FPS_GameMode_C'
+[2024.02.21-15.08.41:692][563]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2024.02.22-00.08.41
+[2024.02.21-15.08.41:692][563]LogWorld: Bringing up level for play took: 0.000515
+[2024.02.21-15.08.41:692][563]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2024.02.21-15.08.41:698][563]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2024.02.21-15.08.41:699][563]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.426
+[2024.02.21-15.08.41:700][563]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.08.42:211][619]LogBlueprintUserMessages: [FPS_Character_C_0] No Weapon
+[2024.02.21-15.08.48:829][404]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.08.48:829][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.21-15.08.48:829][404]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.02.21-15.08.48:829][404]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.02.21-15.08.48:839][404]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.21-15.08.48:839][404]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.08.48:879][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.21-15.08.48:883][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.02.21-15.08.48:935][408]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2024.02.21-15.08.49:920][526]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.21-15.08.49:994][533]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/FPS_Character.FPS_Character
+[2024.02.21-15.08.50:138][533]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2024.02.21-15.08.50:688][533]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Weapons/BP_WeaponBase_Pistol.BP_WeaponBase_Pistol
+[2024.02.21-15.08.50:901][533]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Weapons/BP_WeaponBase.BP_WeaponBase
+[2024.02.21-15.08.51:137][533]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP
+[2024.02.21-15.08.51:146][533]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2024.02.21-15.08.51:255][533]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.21-15.08.51:256][533]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPSArms_AnimBP_C_0
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:035C
+[2024.02.21-15.08.51:256][533]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPSArms_AnimBP_C_0
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:038F
+[2024.02.21-15.08.51:256][533]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPSArms_AnimBP_C_0
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:03C3
+[2024.02.21-15.08.51:258][533]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2024.02.21-15.08.51:576][533]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/FPS_HUD.FPS_HUD
+[2024.02.21-15.08.51:814][533]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Actors/ImpactEffects/ImpactEffect.ImpactEffect
+[2024.02.21-15.08.52:073][533]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Actors/ImpactEffects/ImpactEffect_Pistol.ImpactEffect_Pistol
+[2024.02.21-15.08.52:498][533]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPSArms_AnimBP_C_0
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:035C
+[2024.02.21-15.08.52:498][533]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPSArms_AnimBP_C_0
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:038F
+[2024.02.21-15.08.52:498][533]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPSArms_AnimBP_C_0
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:03C3
+[2024.02.21-15.08.52:530][533]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FPSArms_AnimBP_C_0
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:035C
+[2024.02.21-15.08.52:530][533]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FPSArms_AnimBP_C_0
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:038F
+[2024.02.21-15.08.52:530][533]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FPSArms_AnimBP_C_0
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:03C3
+[2024.02.21-15.08.52:534][533]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.02.21-15.08.52:621][534]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPSArms_AnimBP_C_0
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:035C
+[2024.02.21-15.08.52:621][534]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPSArms_AnimBP_C_0
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:038F
+[2024.02.21-15.08.52:621][534]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPSArms_AnimBP_C_0
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:03C3
+[2024.02.21-15.08.52:650][535]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPSArms_AnimBP_C_0
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:035C
+[2024.02.21-15.08.52:650][535]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPSArms_AnimBP_C_0
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:038F
+[2024.02.21-15.08.52:650][535]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPSArms_AnimBP_C_0
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:03C3
+[2024.02.21-15.08.52:677][536]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPSArms_AnimBP_C_0
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:035C
+[2024.02.21-15.08.52:677][536]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPSArms_AnimBP_C_0
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:038F
+[2024.02.21-15.08.56:558][919]LogSlate: Window 'ImpactEffect_Pistol' being destroyed
+[2024.02.21-15.09.11:422][664]BlueprintLog: New page: Compile BP_WeaponBase
+[2024.02.21-15.09.11:618][664]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2024.02.21-15.09.11:653][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/BP_WeaponBase" FILE="../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Content/Blueprints/Weapons/BP_WeaponBase.uasset" SILENT=true
+[2024.02.21-15.09.11:700][664]LogSavePackage: Moving '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Saved/BP_WeaponBaseEDEFC76F4174A60E489F19A4B2992656.tmp' to '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Content/Blueprints/Weapons/BP_WeaponBase.uasset'
+[2024.02.21-15.09.11:731][664]LogSavePackage: Moving '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Saved/BP_WeaponBase_Pistol7E917DFB4F77C0E225720EB5C9FD25BD.tmp' to '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Content/Blueprints/Weapons/BP_WeaponBase_Pistol.uasset'
+[2024.02.21-15.09.12:086][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/BP_WeaponBase" FILE="../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Content/Blueprints/Weapons/BP_WeaponBase.uasset" SILENT=true
+[2024.02.21-15.09.12:132][700]LogSavePackage: Moving '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Saved/BP_WeaponBase87824E3E4E2454AB4A2932A554C32245.tmp' to '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Content/Blueprints/Weapons/BP_WeaponBase.uasset'
+[2024.02.21-15.09.13:987][921]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.21-15.09.14:009][921]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.09.14:009][921]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.02.21-15.09.14:013][921]LogPlayLevel: [PlayLevel] Compiling FPS_Character before play...
+[2024.02.21-15.09.14:181][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FPS_Character" FILE="../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Content/Blueprints/FPS_Character.uasset" SILENT=true
+[2024.02.21-15.09.14:251][921]LogSavePackage: Moving '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Saved/FPS_CharacterEB98B63947DEB9FAACE2EE95C93B12D0.tmp' to '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Content/Blueprints/FPS_Character.uasset'
+[2024.02.21-15.09.14:294][921]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2024.02.21-15.09.14:295][921]LogPlayLevel: PlayLevel: Blueprint regeneration took 285 ms (1 blueprints)
+[2024.02.21-15.09.14:295][921]PIE: New page: PIE session: Minimal_Default (2024. 2. 22. 오전 9:09:14)
+[2024.02.21-15.09.14:295][921]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.02.21-15.09.14:297][921]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002078s)
+[2024.02.21-15.09.14:298][921]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.02.21-15.09.14:298][921]LogPlayLevel: PIE: World Init took: (0.000631s)
+[2024.02.21-15.09.14:298][921]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.002799s)
+[2024.02.21-15.09.14:331][921]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2024.02.21-15.09.14:360][921]LogInit: XAudio2 using '스피커(Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.02.21-15.09.14:409][921]LogInit: FAudioDevice initialized.
+[2024.02.21-15.09.14:418][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.21-15.09.14:418][921]LogLoad: Game class is 'FPS_GameMode_C'
+[2024.02.21-15.09.14:419][921]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2024.02.22-00.09.14
+[2024.02.21-15.09.14:419][921]LogWorld: Bringing up level for play took: 0.000615
+[2024.02.21-15.09.14:420][921]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2024.02.21-15.09.14:424][921]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.298
+[2024.02.21-15.09.14:424][921]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.09.14:699][948]LogBlueprintUserMessages: [FPS_Character_C_0] No Weapon
+[2024.02.21-15.09.19:022][467]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.09.19:022][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.21-15.09.19:022][467]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.02.21-15.09.19:029][467]LogSlate: Window 'Udemy_class Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2024.02.21-15.09.19:034][467]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.02.21-15.09.19:043][467]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.21-15.09.19:043][467]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.09.19:086][467]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2024.02.21-15.09.19:128][472]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.02.21-15.10.41:090][295]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.21-15.10.41:113][295]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.10.41:113][295]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.21-15.10.41:113][295]PIE: New page: PIE session: Minimal_Default (2024. 2. 22. 오전 9:10:41)
+[2024.02.21-15.10.41:113][295]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.02.21-15.10.41:116][295]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002107s)
+[2024.02.21-15.10.41:116][295]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.02.21-15.10.41:116][295]LogPlayLevel: PIE: World Init took: (0.000653s)
+[2024.02.21-15.10.41:116][295]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.002840s)
+[2024.02.21-15.10.41:148][295]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2024.02.21-15.10.41:178][295]LogInit: XAudio2 using '스피커(Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.02.21-15.10.41:225][295]LogInit: FAudioDevice initialized.
+[2024.02.21-15.10.41:235][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.21-15.10.41:236][295]LogLoad: Game class is 'FPS_GameMode_C'
+[2024.02.21-15.10.41:236][295]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2024.02.22-00.10.41
+[2024.02.21-15.10.41:237][295]LogWorld: Bringing up level for play took: 0.000701
+[2024.02.21-15.10.41:237][295]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2024.02.21-15.10.41:241][295]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1.116
+[2024.02.21-15.10.41:241][295]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.10.42:870][418]LogBlueprintUserMessages: [FPS_Character_C_0] No Weapon
+[2024.02.21-15.10.55:685][956]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.10.55:685][956]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.21-15.10.55:685][956]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.02.21-15.10.55:692][956]LogSlate: Window 'Udemy_class Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2024.02.21-15.10.55:699][956]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.02.21-15.10.55:703][956]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.21-15.10.55:703][956]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.10.55:747][956]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2024.02.21-15.10.55:786][960]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.02.21-15.11.00:620][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/BP_WeaponBase" FILE="../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Content/Blueprints/Weapons/BP_WeaponBase.uasset" SILENT=true
+[2024.02.21-15.11.00:668][538]LogSavePackage: Moving '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Saved/BP_WeaponBaseCB2B8FF1411326DB55C8D483149C68AB.tmp' to '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Content/Blueprints/Weapons/BP_WeaponBase.uasset'
+[2024.02.21-15.11.10:344][697]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.02.21-15.11.39:799][183]BlueprintLog: New page: Compile BP_WeaponBase
+[2024.02.21-15.11.39:963][183]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2024.02.21-15.11.39:997][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/BP_WeaponBase" FILE="../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Content/Blueprints/Weapons/BP_WeaponBase.uasset" SILENT=true
+[2024.02.21-15.11.40:044][183]LogSavePackage: Moving '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Saved/BP_WeaponBaseC0EF64914F9C7EAF0E8E8399BDB10EA8.tmp' to '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Content/Blueprints/Weapons/BP_WeaponBase.uasset'
+[2024.02.21-15.11.40:075][183]LogSavePackage: Moving '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Saved/BP_WeaponBase_Pistol8E1856744A41D2F0038080A033C11529.tmp' to '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Content/Blueprints/Weapons/BP_WeaponBase_Pistol.uasset'
+[2024.02.21-15.11.40:399][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/BP_WeaponBase" FILE="../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Content/Blueprints/Weapons/BP_WeaponBase.uasset" SILENT=true
+[2024.02.21-15.11.40:445][216]LogSavePackage: Moving '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Saved/BP_WeaponBase71C6827745A99CB80CE4F2A7DF13A92D.tmp' to '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Content/Blueprints/Weapons/BP_WeaponBase.uasset'
+[2024.02.21-15.11.46:359][913]BlueprintLog: New page: Compile FPS_Character
+[2024.02.21-15.11.46:529][913]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2024.02.21-15.11.46:577][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FPS_Character" FILE="../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Content/Blueprints/FPS_Character.uasset" SILENT=true
+[2024.02.21-15.11.46:649][913]LogSavePackage: Moving '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Saved/FPS_Character95A0E02940B573700AB339804DF27707.tmp' to '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Content/Blueprints/FPS_Character.uasset'
+[2024.02.21-15.11.46:834][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FPS_Character" FILE="../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Content/Blueprints/FPS_Character.uasset" SILENT=true
+[2024.02.21-15.11.46:899][924]LogSavePackage: Moving '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Saved/FPS_Character166D84E642DA89734C74D69975A4F777.tmp' to '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Content/Blueprints/FPS_Character.uasset'
+[2024.02.21-15.11.50:114][307]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.21-15.11.50:137][307]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.11.50:137][307]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.21-15.11.50:137][307]PIE: New page: PIE session: Minimal_Default (2024. 2. 22. 오전 9:11:50)
+[2024.02.21-15.11.50:137][307]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.02.21-15.11.50:139][307]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001964s)
+[2024.02.21-15.11.50:140][307]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.02.21-15.11.50:140][307]LogPlayLevel: PIE: World Init took: (0.000654s)
+[2024.02.21-15.11.50:140][307]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.002702s)
+[2024.02.21-15.11.50:175][307]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2024.02.21-15.11.50:205][307]LogInit: XAudio2 using '스피커(Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.02.21-15.11.50:252][307]LogInit: FAudioDevice initialized.
+[2024.02.21-15.11.50:262][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.21-15.11.50:262][307]LogLoad: Game class is 'FPS_GameMode_C'
+[2024.02.21-15.11.50:263][307]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2024.02.22-00.11.50
+[2024.02.21-15.11.50:263][307]LogWorld: Bringing up level for play took: 0.000669
+[2024.02.21-15.11.50:264][307]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2024.02.21-15.11.50:269][307]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.143
+[2024.02.21-15.11.50:269][307]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.11.58:204][809]LogBlueprintUserMessages: [FPS_Character_C_0] No Weapon
+[2024.02.21-15.12.02:435][317]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_WeaponReload', from offset 1121
+[2024.02.21-15.12.02:435][317]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/FPS_Character.FPS_Character_C:WeaponPullUp__FinishedFunc
+	Function /Game/Blueprints/FPS_Character.FPS_Character_C:ExecuteUbergraph_FPS_Character
+
+[2024.02.21-15.12.02:440][317]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.02.21-15.12.16:887][317]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.12.16:888][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.21-15.12.16:888][317]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.02.21-15.12.16:895][317]LogSlate: Window 'Udemy_class Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2024.02.21-15.12.16:898][317]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.02.21-15.12.16:915][317]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.21-15.12.16:915][317]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.12.16:960][317]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2024.02.21-15.12.16:969][318]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.02.21-15.12.19:282][594]BlueprintLog: New page: Compile BP_WeaponBase_Pistol
+[2024.02.21-15.12.19:432][594]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2024.02.21-15.12.19:477][594]LogSavePackage: Moving '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Saved/BP_WeaponBase_PistolE1C7A74E444CEAA5DD65DDB852EFFE4D.tmp' to '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Content/Blueprints/Weapons/BP_WeaponBase_Pistol.uasset'
+[2024.02.21-15.12.19:939][642]LogSavePackage: Moving '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Saved/BP_WeaponBase_Pistol4F8273FA42073B10565AAFAA25344841.tmp' to '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Content/Blueprints/Weapons/BP_WeaponBase_Pistol.uasset'
+[2024.02.21-15.12.21:160][787]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.21-15.12.21:182][787]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.12.21:183][787]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.21-15.12.21:183][787]PIE: New page: PIE session: Minimal_Default (2024. 2. 22. 오전 9:12:21)
+[2024.02.21-15.12.21:183][787]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.02.21-15.12.21:185][787]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002021s)
+[2024.02.21-15.12.21:186][787]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.02.21-15.12.21:186][787]LogPlayLevel: PIE: World Init took: (0.000651s)
+[2024.02.21-15.12.21:186][787]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.002758s)
+[2024.02.21-15.12.21:219][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2024.02.21-15.12.21:249][787]LogInit: XAudio2 using '스피커(Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.02.21-15.12.21:297][787]LogInit: FAudioDevice initialized.
+[2024.02.21-15.12.21:307][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.21-15.12.21:307][787]LogLoad: Game class is 'FPS_GameMode_C'
+[2024.02.21-15.12.21:308][787]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2024.02.22-00.12.21
+[2024.02.21-15.12.21:308][787]LogWorld: Bringing up level for play took: 0.000674
+[2024.02.21-15.12.21:309][787]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2024.02.21-15.12.21:313][787]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.814
+[2024.02.21-15.12.21:313][787]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.12.21:613][821]LogBlueprintUserMessages: [FPS_Character_C_0] No Weapon
+[2024.02.21-15.12.25:319][266]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_WeaponReload', from offset 1121
+[2024.02.21-15.12.25:319][266]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/FPS_Character.FPS_Character_C:WeaponPullUp__FinishedFunc
+	Function /Game/Blueprints/FPS_Character.FPS_Character_C:ExecuteUbergraph_FPS_Character
+
+[2024.02.21-15.12.25:324][266]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.02.21-15.12.26:495][266]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.12.26:495][266]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.21-15.12.26:495][266]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.02.21-15.12.26:502][266]LogSlate: Window 'Udemy_class Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2024.02.21-15.12.26:508][266]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.02.21-15.12.26:516][266]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.21-15.12.26:516][266]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.12.26:560][266]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2024.02.21-15.12.26:571][267]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.02.21-15.12.31:763][888]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.21-15.12.31:786][888]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.12.31:786][888]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.21-15.12.31:786][888]PIE: New page: PIE session: Minimal_Default (2024. 2. 22. 오전 9:12:31)
+[2024.02.21-15.12.31:786][888]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.02.21-15.12.31:788][888]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002024s)
+[2024.02.21-15.12.31:789][888]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.02.21-15.12.31:789][888]LogPlayLevel: PIE: World Init took: (0.000674s)
+[2024.02.21-15.12.31:789][888]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.002780s)
+[2024.02.21-15.12.31:823][888]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.02.21-15.12.31:854][888]LogInit: XAudio2 using '스피커(Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.02.21-15.12.31:904][888]LogInit: FAudioDevice initialized.
+[2024.02.21-15.12.31:914][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.21-15.12.31:914][888]LogLoad: Game class is 'FPS_GameMode_C'
+[2024.02.21-15.12.31:915][888]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2024.02.22-00.12.31
+[2024.02.21-15.12.31:916][888]LogWorld: Bringing up level for play took: 0.000670
+[2024.02.21-15.12.31:916][888]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2024.02.21-15.12.31:921][888]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.205
+[2024.02.21-15.12.31:921][888]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.12.32:228][921]LogBlueprintUserMessages: [FPS_Character_C_0] No Weapon
+[2024.02.21-15.12.45:487][512]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.12.45:487][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.21-15.12.45:487][512]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.02.21-15.12.45:495][512]LogSlate: Window 'Udemy_class Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2024.02.21-15.12.45:500][512]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.02.21-15.12.45:504][512]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.21-15.12.45:505][512]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.12.45:548][512]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2024.02.21-15.12.45:590][517]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.02.21-15.13.43:624][451]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.21-15.13.43:647][451]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.13.43:647][451]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.21-15.13.43:647][451]PIE: New page: PIE session: Minimal_Default (2024. 2. 22. 오전 9:13:43)
+[2024.02.21-15.13.43:647][451]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.02.21-15.13.43:649][451]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002144s)
+[2024.02.21-15.13.43:650][451]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.02.21-15.13.43:650][451]LogPlayLevel: PIE: World Init took: (0.000637s)
+[2024.02.21-15.13.43:650][451]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.002864s)
+[2024.02.21-15.13.43:684][451]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2024.02.21-15.13.43:715][451]LogInit: XAudio2 using '스피커(Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.02.21-15.13.43:764][451]LogInit: FAudioDevice initialized.
+[2024.02.21-15.13.43:774][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.21-15.13.43:774][451]LogLoad: Game class is 'FPS_GameMode_C'
+[2024.02.21-15.13.43:775][451]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2024.02.22-00.13.43
+[2024.02.21-15.13.43:776][451]LogWorld: Bringing up level for play took: 0.000774
+[2024.02.21-15.13.43:776][451]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2024.02.21-15.13.43:780][451]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.346
+[2024.02.21-15.13.43:780][451]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.13.45:391][595]LogBlueprintUserMessages: [FPS_Character_C_0] No Weapon
+[2024.02.21-15.13.48:749][995]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_VariableSet', from offset 169
+[2024.02.21-15.13.48:749][995]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/FPS_Character.FPS_Character_C:WeaponPullUp__FinishedFunc
+	Function /Game/Blueprints/FPS_Character.FPS_Character_C:ExecuteUbergraph_FPS_Character
+	Function /Game/Blueprints/Weapons/BP_WeaponBase_Pistol.BP_WeaponBase_Pistol_C:WeaponReload
+	Function /Game/Blueprints/Weapons/BP_WeaponBase_Pistol.BP_WeaponBase_Pistol_C:ExecuteUbergraph_BP_WeaponBase_Pistol
+	Function /Game/Blueprints/Weapons/BP_WeaponBase.BP_WeaponBase_C:WeaponReload
+
+[2024.02.21-15.13.48:753][995]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.02.21-15.14.54:831][995]LogSlate: Window 'Udemy_class Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2024.02.21-15.14.58:878][995]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.14.58:878][995]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.02.21-15.14.58:878][995]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.02.21-15.14.58:888][995]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.21-15.14.58:888][995]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.14.58:932][995]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2024.02.21-15.14.58:941][996]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.02.21-15.15.22:647][812]BlueprintLog: New page: Compile BP_WeaponBase
+[2024.02.21-15.15.22:825][812]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2024.02.21-15.15.22:863][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/BP_WeaponBase" FILE="../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Content/Blueprints/Weapons/BP_WeaponBase.uasset" SILENT=true
+[2024.02.21-15.15.22:911][812]LogSavePackage: Moving '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Saved/BP_WeaponBaseF483CC4241412A9DBCEDD895CBD64F57.tmp' to '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Content/Blueprints/Weapons/BP_WeaponBase.uasset'
+[2024.02.21-15.15.23:613][893]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.21-15.15.23:635][893]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.15.23:635][893]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.21-15.15.23:635][893]PIE: New page: PIE session: Minimal_Default (2024. 2. 22. 오전 9:15:23)
+[2024.02.21-15.15.23:635][893]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.02.21-15.15.23:637][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001915s)
+[2024.02.21-15.15.23:638][893]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.02.21-15.15.23:638][893]LogPlayLevel: PIE: World Init took: (0.000692s)
+[2024.02.21-15.15.23:638][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.002688s)
+[2024.02.21-15.15.23:675][893]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2024.02.21-15.15.23:705][893]LogInit: XAudio2 using '스피커(Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.02.21-15.15.23:756][893]LogInit: FAudioDevice initialized.
+[2024.02.21-15.15.23:766][893]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.21-15.15.23:766][893]LogLoad: Game class is 'FPS_GameMode_C'
+[2024.02.21-15.15.23:767][893]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2024.02.22-00.15.23
+[2024.02.21-15.15.23:767][893]LogWorld: Bringing up level for play took: 0.000556
+[2024.02.21-15.15.23:767][893]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2024.02.21-15.15.23:770][893]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.356
+[2024.02.21-15.15.23:771][893]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.15.24:028][920]LogBlueprintUserMessages: [FPS_Character_C_0] No Weapon
+[2024.02.21-15.15.27:775][370]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_PrintString', from offset 235
+[2024.02.21-15.15.27:775][370]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/FPS_Character.FPS_Character_C:WeaponPullUp__FinishedFunc
+	Function /Game/Blueprints/FPS_Character.FPS_Character_C:ExecuteUbergraph_FPS_Character
+	Function /Game/Blueprints/Weapons/BP_WeaponBase_Pistol.BP_WeaponBase_Pistol_C:WeaponReload
+	Function /Game/Blueprints/Weapons/BP_WeaponBase_Pistol.BP_WeaponBase_Pistol_C:ExecuteUbergraph_BP_WeaponBase_Pistol
+	Function /Game/Blueprints/Weapons/BP_WeaponBase.BP_WeaponBase_C:WeaponReload
+
+[2024.02.21-15.15.27:779][370]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.02.21-15.15.40:582][370]LogBlueprintUserMessages: [BP_WeaponBase_Pistol_C_0] 30
+[2024.02.21-15.15.40:583][370]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.15.40:583][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.21-15.15.40:583][370]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.02.21-15.15.40:591][370]LogSlate: Window 'Udemy_class Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2024.02.21-15.15.40:595][370]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.02.21-15.15.40:601][370]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.21-15.15.40:601][370]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.15.40:645][370]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2024.02.21-15.15.40:654][371]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.02.21-15.15.48:614][972]BlueprintLog: New page: Compile BP_WeaponBase
+[2024.02.21-15.15.48:781][972]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2024.02.21-15.15.48:816][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/BP_WeaponBase" FILE="../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Content/Blueprints/Weapons/BP_WeaponBase.uasset" SILENT=true
+[2024.02.21-15.15.48:863][972]LogSavePackage: Moving '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Saved/BP_WeaponBase6631F6454258DE05106693AA7CEE0D95.tmp' to '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Content/Blueprints/Weapons/BP_WeaponBase.uasset'
+[2024.02.21-15.15.49:128][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/BP_WeaponBase" FILE="../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Content/Blueprints/Weapons/BP_WeaponBase.uasset" SILENT=true
+[2024.02.21-15.15.49:175][999]LogSavePackage: Moving '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Saved/BP_WeaponBase297DF41A4328576536D14B8C75C40521.tmp' to '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Content/Blueprints/Weapons/BP_WeaponBase.uasset'
+[2024.02.21-15.17.58:947][491]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={DBCA852A-4F81-6818-D3D6-B0A637E78A84}
+[2024.02.21-15.18.43:164][757]BlueprintLog: New page: Compile BP_WeaponBase_Pistol
+[2024.02.21-15.18.43:326][757]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2024.02.21-15.18.43:373][757]LogSavePackage: Moving '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Saved/BP_WeaponBase_Pistol92AA9DA741FE8ADEA4ADC3A87270D58D.tmp' to '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Content/Blueprints/Weapons/BP_WeaponBase_Pistol.uasset'
+[2024.02.21-15.18.44:196][848]LogSavePackage: Moving '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Saved/BP_WeaponBase_Pistol8BB496DF4D23E02307C5B190EA60D3F5.tmp' to '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Content/Blueprints/Weapons/BP_WeaponBase_Pistol.uasset'
+[2024.02.21-15.18.54:501][ 82]BlueprintLog: New page: Compile BP_WeaponBase_Pistol
+[2024.02.21-15.18.54:657][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2024.02.21-15.18.54:703][ 82]LogSavePackage: Moving '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Saved/BP_WeaponBase_Pistol637387774F53FEBEE890B0940794C896.tmp' to '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Content/Blueprints/Weapons/BP_WeaponBase_Pistol.uasset'
+[2024.02.21-15.18.55:056][117]LogSavePackage: Moving '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Saved/BP_WeaponBase_Pistol68B14192478361F77A697CBECF3FBC14.tmp' to '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Content/Blueprints/Weapons/BP_WeaponBase_Pistol.uasset'
+[2024.02.21-15.18.58:944][581]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={42D81DD6-46C1-92F8-1D28-7AA9117F7B95}
+[2024.02.21-15.19.03:869][159]LogSlate: Window 'Tutorials' being destroyed
+[2024.02.21-15.19.45:980][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.21-15.19.46:124][210]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/Particles/FX_PistolShell.FX_PistolShell
+[2024.02.21-15.19.46:136][210]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0002 seconds. Added 2 classes and 2 folders.
+[2024.02.21-15.20.05:592][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.21-15.20.08:603][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.21-15.20.16:836][843]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2024.02.21-15.20.22:060][455]LogCascade: Quitting Cascade. FXSystem=0x00000154B2E80AC0
+[2024.02.21-15.20.22:075][455]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.02.21-15.22.11:221][518]BlueprintLog: New page: Compile BP_WeaponBase_Pistol
+[2024.02.21-15.22.11:451][518]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2024.02.21-15.22.11:502][518]LogSavePackage: Moving '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Saved/BP_WeaponBase_Pistol8DC3CFF84D8A2B8DE6D16CA8F1E130FC.tmp' to '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Content/Blueprints/Weapons/BP_WeaponBase_Pistol.uasset'
+[2024.02.21-15.22.11:875][559]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.21-15.22.11:899][559]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.22.11:899][559]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.21-15.22.11:899][559]PIE: New page: PIE session: Minimal_Default (2024. 2. 22. 오전 9:22:11)
+[2024.02.21-15.22.11:899][559]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.02.21-15.22.11:902][559]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002265s)
+[2024.02.21-15.22.11:902][559]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.02.21-15.22.11:903][559]LogPlayLevel: PIE: World Init took: (0.000882s)
+[2024.02.21-15.22.11:903][559]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003269s)
+[2024.02.21-15.22.11:955][559]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2024.02.21-15.22.11:986][559]LogInit: XAudio2 using '스피커(Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.02.21-15.22.12:039][559]LogInit: FAudioDevice initialized.
+[2024.02.21-15.22.12:049][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.21-15.22.12:049][559]LogLoad: Game class is 'FPS_GameMode_C'
+[2024.02.21-15.22.12:050][559]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2024.02.22-00.22.12
+[2024.02.21-15.22.12:050][559]LogWorld: Bringing up level for play took: 0.000632
+[2024.02.21-15.22.12:050][559]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2024.02.21-15.22.12:054][559]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.071
+[2024.02.21-15.22.12:055][559]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.22.12:248][580]LogBlueprintUserMessages: [FPS_Character_C_0] No Weapon
+[2024.02.21-15.22.14:581][860]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat_1
+	ImpactEffect_Pistol_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.ImpactEffect_Pistol_C_1
+	Function /Game/Blueprints/Actors/ImpactEffects/ImpactEffect.ImpactEffect_C:ExecuteUbergraph_ImpactEffect:026D
+[2024.02.21-15.22.14:581][860]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_PhysMat_1". Blueprint:  ImpactEffect Function:  Execute Ubergraph Impact Effect Graph:  EventGraph Node:  Spawn Emitter at Location
+[2024.02.21-15.22.14:581][860]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat_1
+	ImpactEffect_Pistol_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.ImpactEffect_Pistol_C_1
+	Function /Game/Blueprints/Actors/ImpactEffects/ImpactEffect.ImpactEffect_C:ExecuteUbergraph_ImpactEffect:03C4
+[2024.02.21-15.22.14:581][860]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_PhysMat_1". Blueprint:  ImpactEffect Function:  Execute Ubergraph Impact Effect Graph:  EventGraph Node:  Play Sound at Location
+[2024.02.21-15.22.14:581][860]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat_1
+	ImpactEffect_Pistol_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.ImpactEffect_Pistol_C_1
+	Function /Game/Blueprints/Actors/ImpactEffects/ImpactEffect.ImpactEffect_C:ExecuteUbergraph_ImpactEffect:0519
+[2024.02.21-15.22.14:581][860]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_PhysMat_1". Blueprint:  ImpactEffect Function:  Execute Ubergraph Impact Effect Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2024.02.21-15.22.14:581][860]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat_1
+	ImpactEffect_Pistol_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.ImpactEffect_Pistol_C_1
+	Function /Game/Blueprints/Actors/ImpactEffects/ImpactEffect.ImpactEffect_C:ExecuteUbergraph_ImpactEffect:0650
+[2024.02.21-15.22.14:581][860]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_PhysMat_1". Blueprint:  ImpactEffect Function:  Execute Ubergraph Impact Effect Graph:  EventGraph Node:  Spawn Decal Attached
+[2024.02.21-15.22.14:581][860]LogScript: Warning: UGameplayStatics::SpawnDecalAttached: NULL AttachComponent specified!
+[2024.02.21-15.22.14:581][860]LogScript: Warning: UGameplayStatics::SpawnDecalAttached: NULL AttachComponent specified!
+[2024.02.21-15.22.15:664][990]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat_1
+	ImpactEffect_Pistol_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.ImpactEffect_Pistol_C_2
+	Function /Game/Blueprints/Actors/ImpactEffects/ImpactEffect.ImpactEffect_C:ExecuteUbergraph_ImpactEffect:026D
+[2024.02.21-15.22.15:664][990]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_PhysMat_1". Blueprint:  ImpactEffect Function:  Execute Ubergraph Impact Effect Graph:  EventGraph Node:  Spawn Emitter at Location
+[2024.02.21-15.22.15:664][990]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat_1
+	ImpactEffect_Pistol_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.ImpactEffect_Pistol_C_2
+	Function /Game/Blueprints/Actors/ImpactEffects/ImpactEffect.ImpactEffect_C:ExecuteUbergraph_ImpactEffect:03C4
+[2024.02.21-15.22.15:664][990]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_PhysMat_1". Blueprint:  ImpactEffect Function:  Execute Ubergraph Impact Effect Graph:  EventGraph Node:  Play Sound at Location
+[2024.02.21-15.22.15:664][990]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat_1
+	ImpactEffect_Pistol_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.ImpactEffect_Pistol_C_2
+	Function /Game/Blueprints/Actors/ImpactEffects/ImpactEffect.ImpactEffect_C:ExecuteUbergraph_ImpactEffect:0519
+[2024.02.21-15.22.15:664][990]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_PhysMat_1". Blueprint:  ImpactEffect Function:  Execute Ubergraph Impact Effect Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2024.02.21-15.22.15:664][990]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat_1
+	ImpactEffect_Pistol_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.ImpactEffect_Pistol_C_2
+	Function /Game/Blueprints/Actors/ImpactEffects/ImpactEffect.ImpactEffect_C:ExecuteUbergraph_ImpactEffect:0650
+[2024.02.21-15.22.15:664][990]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_PhysMat_1". Blueprint:  ImpactEffect Function:  Execute Ubergraph Impact Effect Graph:  EventGraph Node:  Spawn Decal Attached
+[2024.02.21-15.22.15:664][990]LogScript: Warning: UGameplayStatics::SpawnDecalAttached: NULL AttachComponent specified!
+[2024.02.21-15.22.15:664][990]LogScript: Warning: UGameplayStatics::SpawnDecalAttached: NULL AttachComponent specified!
+[2024.02.21-15.22.16:731][118]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat_1
+	ImpactEffect_Pistol_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.ImpactEffect_Pistol_C_3
+	Function /Game/Blueprints/Actors/ImpactEffects/ImpactEffect.ImpactEffect_C:ExecuteUbergraph_ImpactEffect:026D
+[2024.02.21-15.22.16:731][118]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_PhysMat_1". Blueprint:  ImpactEffect Function:  Execute Ubergraph Impact Effect Graph:  EventGraph Node:  Spawn Emitter at Location
+[2024.02.21-15.22.16:731][118]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat_1
+	ImpactEffect_Pistol_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.ImpactEffect_Pistol_C_3
+	Function /Game/Blueprints/Actors/ImpactEffects/ImpactEffect.ImpactEffect_C:ExecuteUbergraph_ImpactEffect:03C4
+[2024.02.21-15.22.16:731][118]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_PhysMat_1". Blueprint:  ImpactEffect Function:  Execute Ubergraph Impact Effect Graph:  EventGraph Node:  Play Sound at Location
+[2024.02.21-15.22.16:731][118]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat_1
+	ImpactEffect_Pistol_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.ImpactEffect_Pistol_C_3
+	Function /Game/Blueprints/Actors/ImpactEffects/ImpactEffect.ImpactEffect_C:ExecuteUbergraph_ImpactEffect:0519
+[2024.02.21-15.22.16:731][118]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_PhysMat_1". Blueprint:  ImpactEffect Function:  Execute Ubergraph Impact Effect Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2024.02.21-15.22.16:731][118]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat_1
+	ImpactEffect_Pistol_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.ImpactEffect_Pistol_C_3
+	Function /Game/Blueprints/Actors/ImpactEffects/ImpactEffect.ImpactEffect_C:ExecuteUbergraph_ImpactEffect:0650
+[2024.02.21-15.22.16:731][118]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_PhysMat_1". Blueprint:  ImpactEffect Function:  Execute Ubergraph Impact Effect Graph:  EventGraph Node:  Spawn Decal Attached
+[2024.02.21-15.22.16:731][118]LogScript: Warning: UGameplayStatics::SpawnDecalAttached: NULL AttachComponent specified!
+[2024.02.21-15.22.16:731][118]LogScript: Warning: UGameplayStatics::SpawnDecalAttached: NULL AttachComponent specified!
+[2024.02.21-15.22.18:913][380]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.22.18:914][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.21-15.22.18:914][380]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.02.21-15.22.18:921][380]LogSlate: Window 'Udemy_class Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2024.02.21-15.22.18:927][380]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.02.21-15.22.18:936][380]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.21-15.22.18:936][380]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.22.18:979][380]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2024.02.21-15.22.19:002][380]LogSlate: Took 0.001367 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.02.21-15.22.19:021][381]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.02.21-15.22.26:122][230]LogSlate: Window 'Message Log' being destroyed
+[2024.02.21-15.22.26:127][230]LogSlate: Window 'Message Log' being destroyed
+[2024.02.21-15.22.28:621][527]LogEditorTransaction: Undo Change Vector Pin Value
+[2024.02.21-15.22.28:671][527]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.21-15.22.28:800][541]LogEditorTransaction: Undo Change Vector Pin Value
+[2024.02.21-15.22.28:849][541]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.21-15.22.28:975][554]LogEditorTransaction: Undo Change Vector Pin Value
+[2024.02.21-15.22.29:025][554]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.21-15.22.30:122][684]BlueprintLog: New page: Compile BP_WeaponBase_Pistol
+[2024.02.21-15.22.30:276][684]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2024.02.21-15.22.30:322][684]LogSavePackage: Moving '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Saved/BP_WeaponBase_PistolF9E31ABE49391FF07CCBF08ACA37DC10.tmp' to '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Content/Blueprints/Weapons/BP_WeaponBase_Pistol.uasset'
+[2024.02.21-15.22.30:619][712]LogSavePackage: Moving '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Saved/BP_WeaponBase_Pistol814E3C5F429BC1B271002BA84160A5D8.tmp' to '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Content/Blueprints/Weapons/BP_WeaponBase_Pistol.uasset'
+[2024.02.21-15.23.36:961][653]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2024.02.21-15.23.36:961][653]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.035
+[2024.02.21-15.23.36:962][653]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/FPS_Character] ([1] browsable assets)...
+[2024.02.21-15.23.36:986][653]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/FPS_Character.FPS_Character]
+[2024.02.21-15.23.36:986][653]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/FPS_Character]
+[2024.02.21-15.23.37:057][653]LogSavePackage: Moving '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Saved/FPS_Character_Auto100C3A5A14937339D85A10CA2DB07D2B2.tmp' to '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Saved/Autosaves/Game/Blueprints/FPS_Character_Auto1.uasset'
+[2024.02.21-15.23.37:059][653]LogFileHelpers: Auto-saving content packages took 0.096
+[2024.02.21-15.24.26:621][577]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/Particles/FX_PistolShell.FX_PistolShell
+[2024.02.21-15.26.25:849][850]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.21-15.27.08:819][958]LogRenderer: Reallocating scene render targets to support 1616x1028 Format 10 NumSamples 1 (Frame:1).
+[2024.02.21-15.27.28:120][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.21-15.29.31:381][254]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/FPS_GameState.FPS_GameState
+[2024.02.21-15.30.59:490][736]LogSlate: Took 0.004800 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.02.21-15.31.01:273][940]LogSlate: Window 'Message Log' being destroyed
+[2024.02.21-15.31.31:124][518]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.21-15.31.31:152][518]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.31.31:152][518]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.21-15.31.31:152][518]PIE: New page: PIE session: Minimal_Default (2024. 2. 22. 오전 9:31:31)
+[2024.02.21-15.31.31:153][518]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.02.21-15.31.31:155][518]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002222s)
+[2024.02.21-15.31.31:156][518]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.02.21-15.31.31:156][518]LogPlayLevel: PIE: World Init took: (0.000901s)
+[2024.02.21-15.31.31:156][518]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003398s)
+[2024.02.21-15.31.31:196][518]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2024.02.21-15.31.31:227][518]LogInit: XAudio2 using '스피커(Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.02.21-15.31.31:277][518]LogInit: FAudioDevice initialized.
+[2024.02.21-15.31.31:281][518]LogLoad: Game class is 'FPS_GameMode_C'
+[2024.02.21-15.31.31:282][518]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2024.02.22-00.31.31
+[2024.02.21-15.31.31:282][518]LogWorld: Bringing up level for play took: 0.000782
+[2024.02.21-15.31.31:282][518]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2024.02.21-15.31.31:285][518]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.841
+[2024.02.21-15.31.31:285][518]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.31.32:924][712]LogBlueprintUserMessages: [FPS_Character_C_0] No Weapon
+[2024.02.21-15.31.43:448][975]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.31.43:448][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.21-15.31.43:449][975]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.02.21-15.31.43:449][975]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.02.21-15.31.43:454][975]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.21-15.31.43:454][975]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.31.43:496][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.21-15.31.43:500][975]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2024.02.21-15.31.43:551][978]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.02.21-15.31.51:902][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.21-15.31.51:985][990]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.21-15.31.52:011][990]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.31.52:011][990]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.21-15.31.52:011][990]PIE: New page: PIE session: Minimal_Default (2024. 2. 22. 오전 9:31:52)
+[2024.02.21-15.31.52:012][990]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.02.21-15.31.52:014][990]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002052s)
+[2024.02.21-15.31.52:015][990]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.02.21-15.31.52:015][990]LogPlayLevel: PIE: World Init took: (0.000710s)
+[2024.02.21-15.31.52:015][990]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003039s)
+[2024.02.21-15.31.52:050][990]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2024.02.21-15.31.52:082][990]LogInit: XAudio2 using '스피커(Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.02.21-15.31.52:131][990]LogInit: FAudioDevice initialized.
+[2024.02.21-15.31.52:138][990]LogLoad: Game class is 'FPS_GameMode_C'
+[2024.02.21-15.31.52:139][990]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2024.02.22-00.31.52
+[2024.02.21-15.31.52:139][990]LogWorld: Bringing up level for play took: 0.000697
+[2024.02.21-15.31.52:139][990]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2024.02.21-15.31.52:141][990]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.016
+[2024.02.21-15.31.52:142][990]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.31.52:800][ 67]LogBlueprintUserMessages: [FPS_Character_C_0] No Weapon
+[2024.02.21-15.32.23:351][733]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.32.23:351][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.21-15.32.23:351][733]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.02.21-15.32.23:352][733]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.02.21-15.32.23:356][733]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.21-15.32.23:356][733]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.32.23:398][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.21-15.32.23:402][733]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2024.02.21-15.32.23:451][736]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.02.21-15.32.54:236][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.21-15.33.13:212][651]BlueprintLog: New page: Compile FPS_Character
+[2024.02.21-15.33.13:393][651]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2024.02.21-15.33.13:446][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FPS_Character" FILE="../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Content/Blueprints/FPS_Character.uasset" SILENT=true
+[2024.02.21-15.33.13:519][651]LogSavePackage: Moving '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Saved/FPS_Character6155D2C047D821028A3A31BA5781CD59.tmp' to '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Content/Blueprints/FPS_Character.uasset'
+[2024.02.21-15.33.14:209][726]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.21-15.33.14:234][726]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.33.14:235][726]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.21-15.33.14:235][726]PIE: New page: PIE session: Minimal_Default (2024. 2. 22. 오전 9:33:14)
+[2024.02.21-15.33.14:235][726]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.02.21-15.33.14:237][726]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001957s)
+[2024.02.21-15.33.14:238][726]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.02.21-15.33.14:239][726]LogPlayLevel: PIE: World Init took: (0.001106s)
+[2024.02.21-15.33.14:239][726]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003435s)
+[2024.02.21-15.33.14:277][726]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2024.02.21-15.33.14:311][726]LogInit: XAudio2 using '스피커(Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.02.21-15.33.14:360][726]LogInit: FAudioDevice initialized.
+[2024.02.21-15.33.14:371][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.21-15.33.14:371][726]LogLoad: Game class is 'FPS_GameMode_C'
+[2024.02.21-15.33.14:372][726]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2024.02.22-00.33.14
+[2024.02.21-15.33.14:373][726]LogWorld: Bringing up level for play took: 0.000863
+[2024.02.21-15.33.14:373][726]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2024.02.21-15.33.14:379][726]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.254
+[2024.02.21-15.33.14:380][726]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.33.14:380][726]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:406][727]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:415][728]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:423][729]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:432][730]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:440][731]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:449][732]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:457][733]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:467][734]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:473][735]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:482][736]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:490][737]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:499][738]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:507][739]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:515][740]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:523][741]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:532][742]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:540][743]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:548][744]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:557][745]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:565][746]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:573][747]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:582][748]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:590][749]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:598][750]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:607][751]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:615][752]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:623][753]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:631][754]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:639][755]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:648][756]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:657][757]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:665][758]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:673][759]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:681][760]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:690][761]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:698][762]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:706][763]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:715][764]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:723][765]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:731][766]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:740][767]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:748][768]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:756][769]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:765][770]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:773][771]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:781][772]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:790][773]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:802][774]LogBlueprintUserMessages: [FPS_Character_C_0] No Weapon
+[2024.02.21-15.33.14:802][774]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:808][775]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:816][776]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:825][777]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:833][778]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:841][779]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:849][780]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:858][781]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:866][782]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:874][783]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:883][784]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:891][785]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:900][786]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:909][787]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:917][788]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:925][789]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:934][790]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:942][791]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:950][792]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:958][793]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:966][794]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:975][795]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:983][796]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:991][797]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.14:999][798]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:008][799]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:016][800]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:024][801]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:033][802]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:042][803]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:050][804]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:058][805]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:067][806]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:075][807]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:083][808]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:092][809]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:100][810]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:108][811]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:117][812]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:125][813]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:133][814]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:142][815]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:150][816]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:158][817]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:167][818]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:175][819]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:184][820]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:191][821]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:200][822]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:208][823]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:216][824]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:225][825]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:233][826]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:241][827]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:250][828]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:258][829]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:267][830]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:275][831]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:283][832]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:291][833]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:300][834]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:308][835]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:316][836]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:325][837]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:333][838]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:341][839]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:350][840]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:358][841]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:366][842]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:375][843]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:383][844]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:391][845]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:399][846]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:408][847]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:416][848]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:425][849]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:433][850]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:442][851]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:450][852]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:458][853]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:467][854]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:475][855]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:483][856]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:492][857]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:500][858]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:508][859]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:517][860]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:525][861]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:533][862]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:542][863]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:550][864]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:558][865]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:567][866]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:575][867]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:583][868]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:591][869]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:600][870]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:608][871]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:616][872]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:625][873]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:633][874]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:641][875]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:650][876]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:658][877]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:666][878]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:675][879]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:683][880]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:691][881]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:700][882]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:708][883]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:716][884]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:724][885]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:734][886]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:742][887]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:750][888]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:759][889]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:767][890]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:775][891]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:784][892]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:792][893]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:800][894]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:808][895]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:817][896]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:825][897]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:833][898]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:842][899]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:850][900]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:858][901]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:867][902]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:875][903]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:883][904]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:891][905]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:900][906]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:908][907]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:916][908]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:924][909]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:933][910]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:942][911]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:950][912]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:958][913]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:966][914]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:975][915]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:983][916]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.15:991][917]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:000][918]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:008][919]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:016][920]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:025][921]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:033][922]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:041][923]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:050][924]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:058][925]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:066][926]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:075][927]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:083][928]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:091][929]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:100][930]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:108][931]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:116][932]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:125][933]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:133][934]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:141][935]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:150][936]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:158][937]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:168][938]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:175][939]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:184][940]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:192][941]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:200][942]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:208][943]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:217][944]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:225][945]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:233][946]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:241][947]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:250][948]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:258][949]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:266][950]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:276][951]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:283][952]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:292][953]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:300][954]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:309][955]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:317][956]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:325][957]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:333][958]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:341][959]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:350][960]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:358][961]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:367][962]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:375][963]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:383][964]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:392][965]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:400][966]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:408][967]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:416][968]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:424][969]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:433][970]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:441][971]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:449][972]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:458][973]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:466][974]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:475][975]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:484][976]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:492][977]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:500][978]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:508][979]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:517][980]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:525][981]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:533][982]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:541][983]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:549][984]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:558][985]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:566][986]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:575][987]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:584][988]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:592][989]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:600][990]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:608][991]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:617][992]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:625][993]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:633][994]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:642][995]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:650][996]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:658][997]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:666][998]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:675][999]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:683][  0]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:691][  1]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:700][  2]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:708][  3]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:716][  4]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:725][  5]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:733][  6]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:741][  7]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:750][  8]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:758][  9]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:766][ 10]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:775][ 11]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:783][ 12]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:791][ 13]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:799][ 14]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:808][ 15]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:816][ 16]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:824][ 17]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:833][ 18]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:841][ 19]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:849][ 20]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:858][ 21]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:866][ 22]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:874][ 23]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:883][ 24]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:891][ 25]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:899][ 26]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:908][ 27]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:916][ 28]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:924][ 29]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:933][ 30]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:941][ 31]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:949][ 32]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:958][ 33]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:966][ 34]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:974][ 35]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:983][ 36]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:991][ 37]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.16:999][ 38]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:008][ 39]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:017][ 40]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:025][ 41]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:033][ 42]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:041][ 43]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:049][ 44]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:058][ 45]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:066][ 46]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:074][ 47]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:083][ 48]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:092][ 49]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:100][ 50]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:108][ 51]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:117][ 52]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:125][ 53]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:133][ 54]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:142][ 55]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:150][ 56]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:158][ 57]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:167][ 58]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:175][ 59]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:183][ 60]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:191][ 61]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:199][ 62]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:208][ 63]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:217][ 64]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:225][ 65]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:233][ 66]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:242][ 67]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:250][ 68]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:258][ 69]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:267][ 70]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:275][ 71]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:283][ 72]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:292][ 73]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:300][ 74]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:308][ 75]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:316][ 76]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:325][ 77]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:333][ 78]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:341][ 79]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:350][ 80]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:358][ 81]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:366][ 82]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:374][ 83]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:383][ 84]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:391][ 85]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:399][ 86]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:408][ 87]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:417][ 88]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:425][ 89]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:433][ 90]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:441][ 91]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:450][ 92]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:458][ 93]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:466][ 94]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:475][ 95]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:483][ 96]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:491][ 97]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:500][ 98]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:508][ 99]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:516][100]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:525][101]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:533][102]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:541][103]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:549][104]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:558][105]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:567][106]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:575][107]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:583][108]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:592][109]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:600][110]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:608][111]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:616][112]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:625][113]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:633][114]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:641][115]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:650][116]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:658][117]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:666][118]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:674][119]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:683][120]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:692][121]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:700][122]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:708][123]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:717][124]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:725][125]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:733][126]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:742][127]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:750][128]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:758][129]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:766][130]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:774][131]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:783][132]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:791][133]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:799][134]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:808][135]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:816][136]LogBlueprintUserMessages: [FPS_Character_C_0] Hello
+[2024.02.21-15.33.17:817][136]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.33.17:818][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.21-15.33.17:818][136]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.02.21-15.33.17:825][136]LogSlate: Window 'Udemy_class Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2024.02.21-15.33.17:831][136]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.02.21-15.33.17:839][136]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.21-15.33.17:839][136]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.21-15.33.17:886][136]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2024.02.21-15.33.17:925][140]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.02.21-15.33.33:248][966]BlueprintLog: New page: Compile FPS_Character
+[2024.02.21-15.33.33:424][966]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2024.02.21-15.33.33:472][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FPS_Character" FILE="../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Content/Blueprints/FPS_Character.uasset" SILENT=true
+[2024.02.21-15.33.33:541][966]LogSavePackage: Moving '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Saved/FPS_Character7D229F474530CF925E1070B106B2C1F6.tmp' to '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Content/Blueprints/FPS_Character.uasset'
+[2024.02.21-15.33.33:757][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FPS_Character" FILE="../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Content/Blueprints/FPS_Character.uasset" SILENT=true
+[2024.02.21-15.33.33:823][983]LogSavePackage: Moving '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Saved/FPS_CharacterEFF116924FDF25B820DCAC8689436BD2.tmp' to '../../../../Users/koong/Documents/Unreal Projects/Udemy_class/Content/Blueprints/FPS_Character.uasset'
